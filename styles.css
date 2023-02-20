@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    background: #06b862;
+    line-height: 5;
+    margin:0px 120px 30px ;
+}
+
+.pic-text p, .pic-text button {
+    line-height: 1; 
+    margin-left: -210px;
+}
+.text-center{
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content:space-between ;
+    margin:0px 120px 30px ;
+}
